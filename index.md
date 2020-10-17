@@ -7,6 +7,7 @@ I will implement some of those and do write-ups on this website. Feel free to wa
 
 ### Todo
 
+Implementation of [this](https://www.dcard.tw/f/funny/p/234619423?newCommentCount=1&newCommentOffsetFloor=401)
 
 -------------------------------------------------------
 
